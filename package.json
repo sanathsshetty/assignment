@@ -1,0 +1,27 @@
+{
+  "name": "sl-1stassign",
+  "version": "1.0.0",
+  "description": "1st Skill Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/07Roshi/SL-1stAssign.git"
+  },
+  "author": "Shetty Roshith Raghurama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/07Roshi/SL-1stAssign/issues"
+  },
+  "homepage": "https://github.com/07Roshi/SL-1stAssign#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mongodb": "^6.3.0",
+    "mongoose": "^8.1.3"
+  },"type": "commonjs"
+}
